@@ -1,4 +1,4 @@
-### Olá eu sou o Gabriel Pereira 🖐️
+### Olá me chamo Gabriel Pereira 🖐️
 
 🧑‍🎓 Atualmente sou estudante de desenvolvedor web full-stack.
 
