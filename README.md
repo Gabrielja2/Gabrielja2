@@ -1,6 +1,6 @@
 ### Olá me chamo Gabriel Pereira 🖐️
 
-🧑‍🎓 Atualmente estudo desenvolvimento web full-stack.
+🧑‍🎓 Atualmente estudo desenvolvimento web full-stack, num programa de estudo que conta com mais de 1500 horas de aulas e aborda temas como introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis, TDD, testes unitários, testes com Jest e RTL além de habilidades comportamentais e dinâmicas onde simulavam situações reais do ambiente de trabalho de um desenvolvedor.
 
 <div>
    <a href="https://www.linkedin.com/in/gabriel-pereira-antunes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
