@@ -1,6 +1,6 @@
 ### Olá me chamo Gabriel Pereira 🖐️
 
-🧑‍🎓 Sou engenheiro civil, desenvolvedor front-end jr. e estudante de desenvolvimento web full-stack, já na metadade do curso, iniciando no módulo de back-end, num programa de que conta com mais de 1500 horas de aulas e aborda temas como introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis, testes unitários, testes com Jest e RTL além de habilidades comportamentais e dinâmicas onde simulavam situações reais do ambiente de trabalho de um desenvolvedor.
+🧑‍🎓 Sou engenheiro civil e desenvolvedor web full-stack jr, já caminhando para 3/4 do curso, atualmente estou quase no final do módulo de back-end, num programa de que conta com mais de 1500 horas de aulas e aborda temas como introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis, testes unitários, testes com Jest e RTL além de habilidades comportamentais e dinâmicas onde simulavam situações reais do ambiente de trabalho de um desenvolvedor.
 
 <div>
    <a href="https://www.linkedin.com/in/gabriel-pereira-antunes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
