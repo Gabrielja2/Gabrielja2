@@ -7,7 +7,8 @@
    <a href="mailto:gabrielja2antunes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 <div><br/>
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielja2&show_icons=true&theme=dracula)
+
+![Gabriel GitHub stats](https://github-profile-trophy.vercel.app/?username=Gabrielja2&row=1)](https://github.com/gabrielja2/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielja2&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
