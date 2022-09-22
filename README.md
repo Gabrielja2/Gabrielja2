@@ -10,7 +10,7 @@
    
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielja2&theme=blue-green)
    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielja&theme=blue-green)](https://github.com/gabrielja2/github-readme-stats)
+![Gabriel Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielja2&theme=blue-green)
 
 
 ### Tecnologias que utilizo
