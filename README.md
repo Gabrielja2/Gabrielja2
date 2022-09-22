@@ -22,6 +22,7 @@
 ## Skills
    
 <div style="display: inline-block"><br/>
+   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
    <img align="center" alt=""docker src="https://badgen.net/badge/icon/docker?icon=docker&label">
    <img align="center" alt=""js src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=020"> 
    <img align="center" alt=""html5 src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
