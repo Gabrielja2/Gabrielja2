@@ -29,7 +29,6 @@
    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
    <img src="https://img.icons8.com/color/48/000000/npm.png"/>
-   <img align="center" alt=""docker src="https://badgen.net/badge/icon/docker?icon=docker&label">  
 <div>
  
 
