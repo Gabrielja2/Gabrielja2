@@ -1,4 +1,5 @@
-### Olá me chamo Gabriel Pereira 🖐️
+<h1 align="center">Olá, me chamo Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 🧑‍🎓 Sou engenheiro civil, desenvolvedor web full-stack jr. e estudante no curso da Trybe onde estou na reta final do módulo de back-end, num programa de que conta com mais de 1500 horas de aulas e aborda temas como introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis, testes unitários e de integração com Jest, RTL, Mocha, Chai, Sinon. além de habilidades comportamentais e dinâmicas onde simulavam situações reais do ambiente de trabalho de um desenvolvedor.
 
