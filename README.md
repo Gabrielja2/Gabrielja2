@@ -4,7 +4,7 @@
 
 ## Sobre mim :
 
-- 🏢 Sou estudante de desenvolvimento Web Full-Stack pela [Trybe](https://www.betrybe.com/).
+- 🏢 Sou estudante no **curso** de desenvolvimento Web Full-Stack pela [Trybe](https://www.betrybe.com/).
 - 🏢 Formado em **Engenharia Civil** pela [UBM](https://www.ubm.br/).
 - 🎓 Inicialmente meus estudos foram voltados para a linguagem Javascript, com React.js e Node.js.
 - 🏡 Moro em **Volta Redonda, RJ**
