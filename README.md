@@ -8,7 +8,7 @@
 - 🎓 Inicialmente o foco dos meus estudos estão voltados para React.js, Node.js, Express.js e banco de dados relacionais como o mySQL.
 - 🏡 Moro em **Volta Redonda, RJ**
 - 🧑‍💻 Amo viajar, cozinhar e estar perto de pessoas alegres, sou apaixonado por tecnologia e em ajudar as pessoas.
-- 🛠️ Acredito que minhas principais soft skills são: boa comunicação e tomada de decisões, extremamente esforçado e dedicado, e acredito que me adapto facilmente a mudanças e novos desáfios. 
+- 🛠️ Acredito que minhas principais soft skills são: boa comunicação e tomada de decisões, extremamente esforçado e dedicado, e me adapto facilmente a mudanças e novos desáfios. 
 - ⚡ **Sobre o curso**: É programa de que conta com mais de 1500 horas de aulas e aborda temas como introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis, testes unitários e de integração com Jest, RTL, Mocha, Chai, Sinon. além de habilidades comportamentais e dinâmicas onde simulavam situações reais do ambiente de trabalho de um desenvolvedor. 
 
 
