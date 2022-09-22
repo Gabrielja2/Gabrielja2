@@ -26,12 +26,12 @@
 <div style="display: inline-block"><br/>
    <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
    <img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+   <img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+   <img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
    <img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">  
    <img width="12%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
    <img width="12%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-   <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+   <img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg">
    <img width="12%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
    <img width="12%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg">
    <img width="12%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg">
