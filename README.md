@@ -24,3 +24,4 @@
    <img align="center" alt=""html5 src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt=""html5 src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">  
 <div>
+   [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
