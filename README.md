@@ -31,6 +31,7 @@
    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
    <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+  <img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
 <div>
  
 
