@@ -3,8 +3,8 @@
 
 ## Sobre mim :
 
-- 🏢 Formado em **Engenharia Civil** pela [UBM](https://www.ubm.br/).
-- 🎓 Sou estudante no **curso** de desenvolvimento Web Full-Stack pela [Trybe](https://www.betrybe.com/).
+- 🏢 Formado em **Engenharia Civil** na [UBM](https://www.ubm.br/).
+- 🎓 Sou estudante no **curso** de desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/).
 - 🎓 Inicialmente meu foco esta voltado para Javascript, com React.js e Node.js.
 - 🏡 Moro em **Volta Redonda, RJ**
 - 🧑‍💻 Amo viajar, cozinhar e estar perto de pessoas alegres, sou apaixonado por tecnologia e em ajudar as pessoas.
