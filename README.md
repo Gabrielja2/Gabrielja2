@@ -14,7 +14,7 @@
 
 ## Conecte comigo:
 <div>
-   [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")]
+   [![@gabriel-pereira-antunes](https://img.icons8.com/fluency/48/000000/linkedin.png "@gabriel-pereira-antunes")]
    
    <a href="https://www.linkedin.com/in/gabriel-pereira-antunes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="mailto:gabrielja2antunes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
