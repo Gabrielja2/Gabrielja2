@@ -15,8 +15,8 @@
 ## Conecte comigo:
 
 <div>      
-  <a href="https://www.linkedin.com/in/gabriel-pereira-antunes" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"            target="_blank"></a>
-  <a href="mailto:gabrielja2antunes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"          target="_blank"></a>     
+  <a href="https://www.linkedin.com/in/gabriel-pereira-antunes" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"            target="_blank"></a>  
+  <a href="mailto:gabrielja2antunes@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" target="_blank"></a>     
 <div>
 <br/>
    
