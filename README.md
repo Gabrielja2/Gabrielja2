@@ -18,6 +18,7 @@
    <a href="mailto:gabrielja2antunes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 <div><br/>
 
+ ## Status:
    
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielja2&theme=blue-green)
    
@@ -25,7 +26,7 @@
    
 [![Gabriel github streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=blue-green)
 
-### Tecnologias que utilizo
+## Skills
    
 <div style="display: inline-block"><br/>
    <img align="center" alt=""docker src="https://badgen.net/badge/icon/docker?icon=docker&label">
