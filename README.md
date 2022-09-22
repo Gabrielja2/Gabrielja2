@@ -23,6 +23,6 @@
    <img align="center" alt=""html5 src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
    <img align="center" alt=""html5 src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
    <img align="center" alt=""html5 src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
-   <img align="center" alt=""html5 src="https://badgen.net/badge/icon/typescript?icon=typescript&label)]">   
+   <img align="center" alt=""html5 src="https://badgen.net/badge/icon/typescript?icon=typescript&label">   
 <div>
 
