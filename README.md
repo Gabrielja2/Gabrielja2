@@ -18,8 +18,7 @@
    
 <div style="display: inline-block"><br/>
    <img align="center" alt=""html5 src="https://badgen.net/badge/icon/docker?icon=docker&label">
-   <img align="center" alt=""html5 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+   <img align="center" alt=""html5 src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)"> 
    <img align="center" alt=""html5 src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    <img align="center" alt=""html5 src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
    <img align="center" alt=""html5 src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
