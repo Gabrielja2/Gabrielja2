@@ -23,13 +23,13 @@
    
 <div style="display: inline-block"><br/>
    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-   <img align="center" alt=""docker src="https://badgen.net/badge/icon/docker?icon=docker&label">
-   <img align="center" alt=""js src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=020"> 
-   <img align="center" alt=""html5 src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-   <img align="center" alt=""html5 src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-   <img align="center" alt=""html5 src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-   <img align="center" alt=""html5 src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
-   <img align="center" alt=""html5 src="https://badgen.net/badge/icon/typescript?icon=typescript&label">   
+   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+   <img src="https://img.icons8.com/office/48/000000/react.png"/>
+   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+   <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+   <img align="center" alt=""docker src="https://badgen.net/badge/icon/docker?icon=docker&label">  
 <div>
  
 
