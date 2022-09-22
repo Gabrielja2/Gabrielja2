@@ -1,7 +1,15 @@
 <h1 align="center">Olá, me chamo Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
 
+. e estudante no curso da Trybe onde estou na reta final do módulo de back-end, num programa de que conta com mais de 1500 horas de aulas e aborda temas como introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis, testes unitários e de integração com Jest, RTL, Mocha, Chai, Sinon. além de habilidades comportamentais e dinâmicas onde simulavam situações reais do ambiente de trabalho de um desenvolvedor.
 
-🧑‍🎓 Sou engenheiro civil, desenvolvedor web full-stack jr. e estudante no curso da Trybe onde estou na reta final do módulo de back-end, num programa de que conta com mais de 1500 horas de aulas e aborda temas como introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis, testes unitários e de integração com Jest, RTL, Mocha, Chai, Sinon. além de habilidades comportamentais e dinâmicas onde simulavam situações reais do ambiente de trabalho de um desenvolvedor.
+## Sobre mim :
+
+- 🏢 Sou engenheiro civil e estudante de desenvolvimento web full-stack pela [Trybe](https://www.betrybe.com/)
+- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
+- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
+- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
+- 🏡'Lives in **Dalugama Sri Lanka**
+- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 <div>
    <a href="https://www.linkedin.com/in/gabriel-pereira-antunes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
