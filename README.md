@@ -5,7 +5,7 @@
 
 - 🏢 Formado em **Engenharia Civil** na [UBM](https://www.ubm.br/).
 - 🎓 Sou estudante no **curso** de desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/).
-- 🎓 Inicialmente o foco dos meus estudos estão voltados bancos relacionais SQL, Express.js, React.js e Node.js.
+- 🎓 Inicialmente o foco dos meus estudos estão voltados para React.js, Node.js, Express.js e banco de dados relacionais como o mySQL.
 - 🏡 Moro em **Volta Redonda, RJ**
 - 🧑‍💻 Amo viajar, cozinhar e estar perto de pessoas alegres, sou apaixonado por tecnologia e em ajudar as pessoas.
 - 🛠️ Acredito que minhas principais soft skills são: boa comunicação e tomada de decisões, extremamente esforçado e dedicado, e me adapto facilmente a mudanças e novos desáfio. 
