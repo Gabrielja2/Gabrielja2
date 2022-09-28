@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
 
 
-## Sobre mim :
+## Sobre mim:
 
 - 🏢 Formado em **Engenharia Civil** na [UBM](https://www.ubm.br/).
 - 🎓 Sou estudante no **curso** de desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/).
