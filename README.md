@@ -25,6 +25,7 @@
    
 <div style="display: inline-block"><br/>
    <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+   <img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
    <img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
    <img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
    <img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
