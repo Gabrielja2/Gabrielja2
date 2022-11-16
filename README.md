@@ -1,10 +1,4 @@
-<h1 align="center">Olá, me chamo Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
-
-<div align="center">
-  <a href="https://github.com/Gabrielja2">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<h1 align="center">Olá, me chamo Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>>
 
 
 ## Sobre mim:
