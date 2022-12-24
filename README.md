@@ -6,7 +6,7 @@
 - 🏢 Formado em **Engenharia Civil** na [UBM](https://www.ubm.br/).
 - 🎓 Sou estudante no **curso** de desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/).
 - 🎓 O foco dos meus estudos estão voltados para React.js, Node.js com Express.js, ORM com Sequelize, Typescript, Programação orientada a objeto (P.O.O) e banco de dados relacionais e não relacionais como o mySQL e mongoDB.
-- 🏡 Moro em **Volta Redonda, RJ**
+- 🏡 Moro em **Pinheiros, São Paulo**
 - 🧑‍💻 Amo viajar, cozinhar e estar perto de boas companhias, sou apaixonado por tecnologia e em ajudar a resolver problemas.
 - 🛠️ Acredito que minhas principais soft skills são: boa comunicação e tomada de decisões, extremamente esforçado e dedicado, e me adapto facilmente a mudanças e novos desáfios. 
 - ⚡ **Sobre o curso**: É um programa de que conta com mais de 1500 horas de aulas e aborda temas como introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis, testes unitários e de integração com Jest, RTL, Mocha, Chai, Sinon. além de habilidades comportamentais e dinâmicas onde simulavam situações reais do ambiente de trabalho de um desenvolvedor. 
