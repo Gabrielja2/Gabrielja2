@@ -43,6 +43,6 @@
    
 ![Gabriel GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabrielja2&theme=blue-green)
    
-![Gabriel Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielja2&theme=blue-green)
+![Gabriel Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabrielja2&theme=blue-green)
    
 ![Gabriel github streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=blue-green)
