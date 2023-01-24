@@ -5,7 +5,7 @@
 
 - 🏢 Formado em **Engenharia Civil** na [UBM](https://www.ubm.br/).
 - 🎓 Sou estudante no **curso** de desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/).
-- 🎓 O foco dos meus estudos estão voltados para React.js, Node.js com Express.js, ORM com Sequelize, Typescript, Programação orientada a objeto (P.O.O) e banco de dados relacionais e não relacionais como o mySQL e mongoDB.
+- 🎓 O foco dos meus estudos estão voltados para Python, React.js, Node.js com Express.js, ORM com Sequelize, Typescript, Programação orientada a objeto (P.O.O) e banco de dados relacionais e não relacionais como o mySQL e mongoDB.
 - 🏡 Moro em **Pinheiros, São Paulo**
 - 🧑‍💻 Amo viajar, cozinhar e estar perto de boas companhias, sou apaixonado por tecnologia e em ajudar a resolver problemas.
 - 🛠️ Acredito que minhas principais soft skills são: boa comunicação e tomada de decisões, extremamente esforçado e dedicado, e me adapto facilmente a mudanças e novos desáfios. 
