@@ -8,7 +8,7 @@
 - 🎓 O foco dos meus estudos estão voltados para Python, React.js, Node.js com Express.js, Sequelize, TypeORM, Typescript, Programação orientada a objeto (P.O.O) e banco de dados relacionais e não relacionais como o mySQL e mongoDB.
 - 🏡 Moro em **Pinheiros, São Paulo**
 - 🧑‍💻 Amo viajar, cozinhar e estar perto de boas companhias, sou apaixonado por tecnologia e criar soluções.
-- 🛠️ Acredito que minhas principais soft skills são: boa comunicação e tomada de decisões, extremamente esforçado e dedicado, e me adapto facilmente a mudanças e novos desáfios. 
+- 🛠️ Acredito que minhas principais soft skills são: boa comunicação e tomada de decisões, extremamente esforçado e me adapto facilmente a mudanças e novos desáfios. 
 - ⚡ **Sobre o curso**: É um programa de que conta com mais de 1500 horas de aulas e aborda temas como introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis, testes unitários e de integração com Jest, RTL, Mocha, Chai, Sinon. além de habilidades comportamentais e dinâmicas onde simulavam situações reais do ambiente de trabalho de um desenvolvedor. 
 
 
