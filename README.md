@@ -4,13 +4,12 @@
 ## Sobre mim:
 
 - 🧑‍💻 Me chamo Gabriel, tenho 31 anos, amo viajar, ouvir musica, cozinhar e estar perto de boas companhias.
-- 👨‍👩‍👧‍👦 Família pra mim se resume as pessoas que mais amo e que moram comigo, que são: minha mãe, meu irmão e minha namorada.
+- 👨‍👩‍👧‍👦 Família pra mim se resume as pessoas que mais amo e que moram comigo, minha mãe, meu irmão e minha namorada.
 - 🏡 Moro em **Volta Redonda, Rio de Janeiro**
 - 🏢 Formado em **Engenharia Civil** na [UBM](https://www.ubm.br/).
-- 🎓 Matriculado no **curso** de desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/), no último módulo, de Cinência da Computação.
-- 🎓 Sou apaixonado por tecnologia e em criar soluções, o foco dos meus estudos estão voltados para Python, React.js, Node.js com Express.js, Sequelize, Typescript, Programação orientada a objeto (P.O.O) e banco de dados relacionais e não relacionais como o mySQL e mongoDB.
-- 🛠️ Acredito que minhas principais soft skills são: boa comunicação e tomada de decisões, extremamente esforçado e me adapto facilmente a mudanças e novos desáfios. 
-- ⚡ **Sobre o curso**: É um programa de que conta com mais de 1500 horas de aulas e aborda temas como introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis, testes unitários e de integração com Jest, RTL, Mocha, Chai, Sinon. além de habilidades comportamentais e dinâmicas onde simulavam situações reais do ambiente de trabalho de um desenvolvedor. 
+- 🎓 Matriculado no **curso** de desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/), no último módulo, de Ciência da Computação.
+- 🎓 Sou apaixonado por tecnologia e em resolver problemas, o foco dos meus estudos estão voltados para Python, React, Node, Express, Sequelize, Typescript, Programação orientada a objeto (P.O.O) e banco de dados relacionais como mySQL, Postgress... e não relacionais como mongoDB.
+- 🛠️ Acredito que minhas principais soft skills são: boa comunicação e tomada de decisões, extremamente esforçado e me adapto facilmente a mudanças e novos desáfios.
 
 
 ## Conecte comigo:
