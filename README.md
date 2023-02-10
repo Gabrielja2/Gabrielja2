@@ -4,7 +4,7 @@
 ## Sobre mim:
 
 - 🧑‍💻 Me chamo Gabriel, tenho 31 anos, amo viajar, ouvir musica, cozinhar e estar perto de boas companhias.
-- 👨‍👩‍👧‍👦 Família pra mim se resume as pessoas que moram comigo e que mais amo: minha mãe, meu irmão e minha namorada que está comigo a 8 anos.
+- 👨‍👩‍👧‍👦 Família pra mim se resume as pessoas que mais amo e que moram comigo, que são: minha mãe, meu irmão e minha namorada.
 - 🏡 Moro em **Volta Redonda, Rio de Janeiro**
 - 🏢 Formado em **Engenharia Civil** na [UBM](https://www.ubm.br/).
 - 🎓 Matriculado no **curso** de desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/), no último módulo, de Cinência da Computação.
