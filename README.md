@@ -43,7 +43,7 @@
 
  ## Status:
   
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Gabrielja2" frameborder="0"></iframe>
+<!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Gabrielja2" frameborder="0"></iframe> -->
 
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielja2&show_icons=true&theme=blue-green)
