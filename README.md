@@ -43,15 +43,7 @@
 
  ## Status:
   
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gabrielja2&show_icons=true&theme=blue-green" />   
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielja2&layout=compact&theme=blue-green" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=blue-green" />
-  </a> -->
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=blue-green" />
 
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielja2&show_icons=true&theme=blue-green)
