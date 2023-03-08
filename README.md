@@ -48,4 +48,4 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielja2&layout=compact&theme=blue-green&hide=python,shell,PowerShell)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=blue-green)
+![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=tokyonight)
