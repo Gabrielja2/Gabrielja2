@@ -42,9 +42,7 @@
  
 
  ## Status:
-  
-<!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Gabrielja2" frameborder="0"></iframe> -->
-<img src="https://ionicabizau.github.io/github-profile-languages/api.html?Gabrielja2">
+
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielja2&show_icons=true&theme=blue-green)
   
