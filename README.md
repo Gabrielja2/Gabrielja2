@@ -44,8 +44,8 @@
  ## Status:
 
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielja2&show_icons=true&theme=blue-green)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielja2&show_icons=true&theme=blue-green)
   
-[![Gabriel Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielja2&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielja2&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
    
-![Gabriel github streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=blue-green)
+![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=blue-green)
