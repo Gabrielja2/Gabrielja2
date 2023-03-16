@@ -45,8 +45,8 @@
  ## Status:
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielja2&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielja2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielja2&layout=compact&theme=tokyonight&hide=python,shell,PowerShell)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=tokyonight)
+![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=tokyonight&show_owner=true)
