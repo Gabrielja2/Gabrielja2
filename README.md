@@ -43,16 +43,10 @@
  
 
  ## Status:
-  
-  <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabrielja2&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabrielja2&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielja2&show_icons=true&theme=tokyonight)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielja2&layout=compact&theme=tokyonight&hide=python,shell,PowerShell)](https://github.com/anuraghazra/github-readme-stats)
-<!--  theme=blue-green -->
 
 ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=tokyonight)
