@@ -8,7 +8,7 @@
 - 🏡 Moro em **Volta Redonda, Rio de Janeiro**.
 - 🏢 Formado em **Engenharia Civil** na [UBM](https://www.ubm.br/).
 - 🎓 Estudante no **bootcamp** de Node.js da [MJV](https://www.mjvinnovation.com/pt-br/).
-- 🎓 Matriculado no **curso** de desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/), no último módulo, de Ciência da Computação.
+- 🎓 Recem formado no **curso** de desenvolvimento Web Full-Stack da [Trybe](https://www.betrybe.com/).
 - 🎓 Sou apaixonado por tecnologia e em resolver problemas, o foco dos meus estudos estão voltados para Python, React, Node, Express, Sequelize, Typescript, Programação orientada a objeto (P.O.O) e banco de dados relacionais como mySQL, Postgress... e não relacionais como mongoDB.
 - 🛠️ Acredito que minhas principais soft skills são: vontade em aprender constantemente, boa comunicação e tomada de decisões, extremamente esforçado e pró-ativ e me adapto facilmente a mudanças e novos desáfios.
 
