@@ -10,7 +10,7 @@
 - 🎓 Formado no **bootcamp** de Node.js da [MJV](https://www.mjvinnovation.com/pt-br/).
 - 🎓 Formado no **curso** de desenvolvimento Web Full-Stack da [Trybe](https://www.betrybe.com/).
 - 🏢 Desenvolvedor backend na [Arch](https://archoffice.tech/sobre).
-- 🎓 Sou apaixonado por tecnologia e em resolver problemas, o foco dos meus estudos atualmente, estão voltados para as tecnologias que tenho utilizado onde atuo como dev, como: Node, Express, Typescript, Programação orientada a objeto (P.O.O), Postgress, Nestjs e TypeORM.
+- 🎓 Sou apaixonado por tecnologia e em resolver problemas, o foco dos meus estudos atualmente, estão voltados para as tecnologias que mais tenho utilizado, como: Node.js, Nest.js, TypeORM, Express, Typescript, Programação orientada a objeto (P.O.O) e Postgress.
 - 🛠️ Acredito que minhas principais soft skills são: vontade em aprender constantemente, boa comunicação e tomada de decisões, esforçado, pró-ativo e acredito me adaptar facilmente a mudanças e novos desáfios.
 
 
