@@ -3,8 +3,6 @@
 
 ## Sobre mim:
 
-- 🧑‍💻 Me chamo Gabriel, tenho 31 anos, amo viajar, ouvir musica, cozinhar e estar perto de boas companhias.
-- 👨‍👩‍👧‍👦 Família pra mim se resume as pessoas que mais amo e que moram comigo, minha mãe, meu irmão e minha namorada.
 - 🏡 Moro em **Volta Redonda, Rio de Janeiro**.
 - 🏢 Formado em **Engenharia Civil** na [UBM](https://www.ubm.br/).
 - 🎓 Formado no **bootcamp** de Node.js da [MJV](https://www.mjvinnovation.com/pt-br/).
