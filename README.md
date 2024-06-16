@@ -34,7 +34,9 @@
    <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
    <img width="12%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
    <img width="12%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg">
-   <img width="12%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg">   
+   <img width="12%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg">
+   <img width="12%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"> 
+ 
   
 <div>
  
