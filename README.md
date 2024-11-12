@@ -4,6 +4,7 @@
 ## Sobre mim:
 
 - 🏡 Moro em **Volta Redonda, Rio de Janeiro**.
+- 💻 Atuando como Desenvolvedor Fullstack na [Liquid](https://www.askliquid.com/).
 - 🏢 Formado em **Engenharia Civil** na [UBM](https://www.ubm.br/).
 - 🎓 Formado no **bootcamp** de Node.js da [MJV](https://www.mjvinnovation.com/pt-br/).
 - 🎓 Formado no **curso** de desenvolvimento Web Full-Stack da [Trybe](https://www.betrybe.com/).
