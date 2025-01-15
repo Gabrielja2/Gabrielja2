@@ -36,20 +36,13 @@
    <img width="12%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
    <img width="12%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg">
    <img width="12%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg">
-   <img width="12%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"> 
- 
-  
+   <img width="12%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">   
 <div>
 
- ## Status:
+## Status:
  
- <div align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=tokyonight">
- </div>
- 
- 
-
-  
-
-
-
+<br><br><br>
+<div align="center">
+   <img width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=tokyonight">
+</div>
+<br><br><br>
