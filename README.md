@@ -44,7 +44,7 @@
  ## Status:
 
    <div style="display: inline-block">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=tokyonight">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=tokyonight">
    </div> 
  
  
