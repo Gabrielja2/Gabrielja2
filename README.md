@@ -45,3 +45,7 @@
 <div align="center">
    <img width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=tokyonight">
 </div>
+
+<div align="center">
+   <img width="100%" height="200px" src="https://activity-graph.herokuapp.com/graph?username=seu-usuario&theme=tokyo-night">
+</div>
