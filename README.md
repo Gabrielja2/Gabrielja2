@@ -45,10 +45,9 @@
  ## Status:
   
   <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielJa2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabrielja2&layout=compact&theme=tokyonight&hide=python,shell,PowerShell&e&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=tokyonight"/>
-</div>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielJa2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabrielja2&layout=compact&theme=tokyonight&hide=shell,PowerShell&e&count_private=true"/> 
+  </div>
 
 <!-- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielja2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
