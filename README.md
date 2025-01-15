@@ -43,7 +43,7 @@
 
  ## Status:
 
-   <div style="alignItems: center">
+   <div style="align: center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=tokyonight">
    </div> 
  
