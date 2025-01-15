@@ -47,5 +47,5 @@
 </div>
 
 <div align="center">
-   <img width="100%" height="200px" src="https://activity-graph.herokuapp.com/graph?username=Gabrielja2&theme=tokyo-night">
+   <img width="100%" height="200px" src="https://github.com/user-attachments/assets/62fdc1bc-e571-4030-bfca-170fef5597d6">
 </div>
