@@ -46,6 +46,7 @@
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielja2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielja2&layout=compact&theme=tokyonight&hide=shell,PowerShell&show_owner=true&include_all_commits=true&count_private=true)
  ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=tokyonight)
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
  
  <!-- 
   <div align="center">
