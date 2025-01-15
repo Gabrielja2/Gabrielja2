@@ -41,8 +41,8 @@
 
 ## Status:
  
-<br><br><br>
+<br>
 <div align="center">
    <img width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=tokyonight">
 </div>
-<br><br><br>
+<br>
