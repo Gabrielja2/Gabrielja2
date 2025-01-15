@@ -43,9 +43,9 @@
 
  ## Status:
  
-  <div align="center">
+ 
    ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabrielja2&theme=tokyonight)
-  </div>
+
   
 
 
